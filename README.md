@@ -1,11 +1,13 @@
 # TC3041 Proyecto  Final Primavera 2019
-
+# IMPORTANTE
+Repo de proyecto actual: https://github.com/salochara/PF-equipo-1
 #*[Poner aquí el Título del Proyecto]*
 ---
 
 ##### Integrantes:
-1. *[Poner aquí Nombre y Apellidos del integrante 1]*
-2. *[Poner aquí Nombre y Apellidos del integrante 2]*
+1. Salomon Charabati
+2. Mauricio Coello
+3. Eric Parton
 
 
 ---
